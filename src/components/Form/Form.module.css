@@ -1,0 +1,29 @@
+.formContainer {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(46, 46, 46, 0.5);
+  padding: 30px;
+  border: 1px solid lightyellow;
+}
+
+.labelContainer {
+  display: flex;
+  color: white;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+  border-radius: 300px;
+}
+
+.warning {
+  color: red;
+}
